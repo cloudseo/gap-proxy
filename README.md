@@ -27,7 +27,7 @@ $ go build -o gap-proxy *.go
 **提示：为了简单，如下操作在个人电脑，国外服务器上可都一样。**
 
 #### 下载
-根据你所使用的操作系统从 [releases](https://github.com/fanpei91/gap/releases/) 下载相应已编译好的二进制文件压缩包。
+根据你所使用的操作系统从 [releases](https://github.com/fanpei91/gap-proxy/releases/) 下载相应已编译好的二进制文件压缩包。
 
 #### 安装
 首先解压程序包，进入该目录，把 `.gap-proxy` 目录移动到用户主目录下：
