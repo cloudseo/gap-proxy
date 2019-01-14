@@ -30,10 +30,10 @@ $ go build -o gap-proxy *.go
 根据你所使用的操作系统从 [releases](https://github.com/fanpei91/gap/releases/) 下载相应已编译好的二进制文件压缩包。
 
 #### 安装
-首先解压程序包，进入该目录，把 `gap-proxy` 目录移动到用户主目录下，并命名为 `.gap-proxy`：
+首先解压程序包，进入该目录，把 `.gap-proxy` 目录移动到用户主目录下：
 
 ```
-$ mv gap-proxy ~/.gap-proxy
+$ mv .gap-proxy ~/.gap-proxy
 ```
 
 接着把 `gap-proxy` 二进制文件移动到 `/usr/local/bin` 或其他在 `$PATH` 环境变量的目录里，并命名为 `gap`：

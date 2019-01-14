@@ -11,7 +11,7 @@ import (
 
 	"log"
 
-	"github.com/fanpei91/gap/mtcp"
+	"github.com/fanpei91/gap-proxy/mtcp"
 	"github.com/pkg/errors"
 )
 

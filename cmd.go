@@ -12,7 +12,7 @@ import (
 
 	"net"
 
-	"github.com/fanpei91/gap/mtcp"
+	"github.com/fanpei91/gap-proxy/mtcp"
 	"github.com/pkg/errors"
 	"github.com/spf13/cobra"
 )
