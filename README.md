@@ -106,4 +106,4 @@ $ gap wnd 512
 
 | 支付宝 | 微信 |
 |---|---|
-| ![](./Alipay.jpeg) | ![](./Wechat.jpeg) |
+| ![](./Alipay.png) | ![](./Wechat.png) |
